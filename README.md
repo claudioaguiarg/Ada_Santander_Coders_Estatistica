@@ -36,9 +36,12 @@ Este projeto faz parte do módulo de estatística do Curso Santander Coders 2023
  ![image](https://github.com/guilbd/Ada_Santander_Coders_Estatistica/assets/57806160/23ce1aa2-c80a-4678-93f7-48c1b039bc2b)
 
 
-## Autor
+## Autores
 
 Guilherme Benvenuto
+Cláudio Aguiar
+Iris Pires
+Leon
 
 ## Licença
 

@@ -35,7 +35,7 @@ Este projeto faz parte do módulo de estatística do Curso Santander Coders 2023
 ## Autores
 
 - Guilherme Benvenuto
-- -Cláudio Aguiar
+- Cláudio Aguiar
 - Iris Pires
 - Leon
 

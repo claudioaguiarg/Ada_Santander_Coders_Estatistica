@@ -1,7 +1,3 @@
-Excelente, obrigado pelas informações. Aqui está um exemplo de README em Markdown para o seu projeto:
-
----
-
 # Projeto de Estatística - Curso Santander Coders 2023
 
 ## Descrição
@@ -38,10 +34,10 @@ Este projeto faz parte do módulo de estatística do Curso Santander Coders 2023
 
 ## Autores
 
-Guilherme Benvenuto
-Cláudio Aguiar
-Iris Pires
-Leon
+- Guilherme Benvenuto
+- -Cláudio Aguiar
+- Iris Pires
+- Leon
 
 ## Licença
 
